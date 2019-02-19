@@ -8,9 +8,9 @@ namespace aspplatzi.Controllers
     {
         public IActionResult Index(){
             var escuela = new Escuela{
-                Id  = Guid.NewGuid().ToString(),
+                UniqueId = Guid.NewGuid().ToString(),
                 Nombre = "Esperanza",
-                AnoFundacion = 1992
+                AñoDeCreación = 1992
             };
 
             ViewBag.CosaDinamica = "La Monja";
