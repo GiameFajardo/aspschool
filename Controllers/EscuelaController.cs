@@ -10,7 +10,10 @@ namespace aspplatzi.Controllers
             var escuela = new Escuela{
                 UniqueId = Guid.NewGuid().ToString(),
                 Nombre = "Esperanza",
-                AñoDeCreación = 1992
+                AñoDeCreación = 1992,
+                Ciudad = "Santiago",
+                Pais = "Republica Dominicana",
+                TipoEscuela = TiposEscuela.Secundaria
             };
 
             ViewBag.CosaDinamica = "La Monja";
