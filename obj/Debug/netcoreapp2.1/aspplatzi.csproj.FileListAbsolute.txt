@@ -31,3 +31,4 @@ C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.Views.pdb
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.dll
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.pdb
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.csproj.CopyComplete
+C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Simple.g.cshtml.cs
