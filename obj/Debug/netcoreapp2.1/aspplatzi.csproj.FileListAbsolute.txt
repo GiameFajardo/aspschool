@@ -33,3 +33,5 @@ C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.pdb
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\aspplatzi.csproj.CopyComplete
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Simple.g.cshtml.cs
 C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\Index.g.cshtml.cs
+C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\Razor\Views\Shared\AsignaturaSimple.g.cshtml.cs
+C:\Users\Chu\Source\Repos\aspplatzi\obj\Debug\netcoreapp2.1\Razor\Views\Asignatura\MultiAsignatura.g.cshtml.cs
