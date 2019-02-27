@@ -1,0 +1,17 @@
+﻿@model List<Asignatura>
+
+@{
+    ViewData["Title"] = "Asignatura";
+    Layout = "Simple";
+}
+<h1>@ViewData["Title"] </h1>
+
+
+
+@foreach (Asignatura asig in Model)
+{
+    
+<partial name="AsignaturaSimple" model="asig" /> 
+}
+
+<p><i>@ViewBag.CosaDinamica -  @ViewData["Fecha"]</i></p>
