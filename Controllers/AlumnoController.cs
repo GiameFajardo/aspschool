@@ -39,7 +39,8 @@ namespace aspplatzi.Controllers
             var listaAllumnos = from n1 in nombre1
                                 from n2 in nombre2
                                 from a1 in apellido
-                                select new Alumno{ Nombre = $"{n1}" + " " + $"{n2}" + " " + $"{a1}", UniqueId = Guid.NewGuid().ToString()};
+                                select new Alumno{ Nombre = $"{n1} {n2} {a1}", 
+                                                   UniqueId = Guid.NewGuid().ToString()};
         return listaAllumnos.OrderBy(a=>a.UniqueId).ToList();
         }               
                  

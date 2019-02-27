@@ -5,13 +5,8 @@
     Layout = "Simple";
 }
 <h1>@ViewData["Title"] </h1>
+   
+    <partial name="ListaObjetosEscuela"/> 
 
-
-
-@foreach (Asignatura asig in Model)
-{
-    
-<partial name="ObjetoEscuelaSimple" model="asig" /> 
-}
 
 <p><i>@ViewBag.CosaDinamica -  @ViewData["Fecha"]</i></p>
